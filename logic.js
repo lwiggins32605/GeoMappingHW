@@ -6,7 +6,7 @@ var myMap = L.map("map", {
   
     // Add a tile layer
     L.tileLayer("https://api.mapbox.com/v4/mapbox.outdoors/{z}/{x}/{y}.png?" +
-    "access_token=pk.eyJ1IjoiZGF2aWR3aW5kc29yam9uZXMiLCJhIjoiY2pkaGp5NTl3MHpjcjMybzF3amJmamx4dyJ9.BiMjzvW8P7LbydGuff9qwg").addTo(myMap);
+    "access_token=pk.eyJ1IjoibGF5dG9hbWI3MiIsImEiOiJjanNyb2JkNmMxa2o3M3lsaTFsaTNvODRvIn0.oXkKDJNE543u0a30RkZkMA").addTo(myMap);
    
 // set up queryURL and grab the geojson data from usgs.gov
 
